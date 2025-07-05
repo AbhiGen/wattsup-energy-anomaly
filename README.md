@@ -21,10 +21,13 @@ An end-to-end Machine Learning project to detect abnormal energy spikes from sma
 - `model/` - trained ML model files
 - `app/` - Flask backend and HTML templates
 
-## ✅ Status
-Day 1: Initialized repository and base project structure
-Day 2: Performed time series forecasting using Facebook Prophet
+## ✅ Progress Log
 
+### Day 1
+- Initialized GitHub repository and base project folder structure
+
+### Day 2
+- Performed time series forecasting using Facebook Prophet
 - Cleaned and resampled electricity usage data to daily totals
 - Performed Exploratory Data Analysis (EDA)
     - Plotted daily electricity consumption over time
@@ -33,4 +36,5 @@ Day 2: Performed time series forecasting using Facebook Prophet
 - Plotted forecast results including confidence intervals
 - Analyzed trend and weekly patterns using Prophet components
 - Saved the forecasting notebook to GitHub
+
 
