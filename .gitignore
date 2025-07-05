@@ -3,3 +3,9 @@ __pycache__/
 *.pkl
 .env
 .DS_Store
+
+# WattsUp ML-specific ignores
+data/
+models/
+*.ipynb_checkpoints
+.vscode/
